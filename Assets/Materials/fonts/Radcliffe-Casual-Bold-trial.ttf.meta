@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e279553009164094c9645fa2ec5b91bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Radcliffe Casual
+  fontNames:
+  - Radcliffe Casual
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1ff6177659048249a34a4cf3d077d1d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

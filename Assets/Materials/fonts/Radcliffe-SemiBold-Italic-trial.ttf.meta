@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a447d356cd2c0df4fb70a541fc792977
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Radcliffe Text
+  fontNames:
+  - Radcliffe Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e3b2af10d5cc31743a3c0bfa0e400ad8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
