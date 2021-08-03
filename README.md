@@ -14,3 +14,7 @@ Le prototype fut près en mars pour faire une séance de test en résidance afin
 
 Sur un ordinateur, le jeu se joue avec la souris (bouton gauche/droite ou flèches directionelles) 
 Maintenir gauche enfoncer et appuyer sur droite pour accéder au paramètres ou mettre le jeu en pause et ECHAP pour quitter.
+
+Rôle:
+Exécutant
+Le projet était pour un client. Il m'a expliqué ce qu'il voulait comme type de jeu, je lui ai fait trois propositions et il a choisi ce qu'il voulait. Ensuite nous étions deux développeurs à travailler dessus. 
